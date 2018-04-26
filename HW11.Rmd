@@ -1,6 +1,6 @@
 ---
 title: 'MSCS 264: Homework #11'
-subtitle: 'Due Tues May 1 at 11:59 PM'
+subtitle: 'Due Wed May 2 at 11:59 PM'
 output:
   pdf_document:
     fig_height: 3
@@ -8,6 +8,8 @@ output:
   html_document: default
   word_document: default
 ---
+
+This is a random line.
 
 You should submit a knitted pdf file on Moodle, but be sure to show all of your R code, in addition to your output, plots, and written responses.
 
