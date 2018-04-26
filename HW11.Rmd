@@ -11,6 +11,8 @@ output:
 
 This is a random line.
 
+This is another random line.
+
 You should submit a knitted pdf file on Moodle, but be sure to show all of your R code, in addition to your output, plots, and written responses.
 
 ```{r, setup, include=FALSE}
