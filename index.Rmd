@@ -2,11 +2,9 @@
 title: 'MSCS 264: Homework #11'
 subtitle: 'Due Wed May 2 at 11:59 PM'
 output:
-  pdf_document:
-    fig_height: 3
-    fig_width: 4.5
-  html_document: default
-  word_document: default
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 This is a random line.
