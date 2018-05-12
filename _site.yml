@@ -1,9 +1,7 @@
-name: "my-website"
+name: "MSCS264-HW11"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Homework 11"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
